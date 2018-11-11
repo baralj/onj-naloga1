@@ -1,0 +1,1 @@
+original a look at the attached file with the proposed long description with the spread functionality the west hub product must be active on also an eastern hub financial product will need to be created under the fin swap product type in order for the spread to work even though it may not be used the spread is calculated east minus west call me with any

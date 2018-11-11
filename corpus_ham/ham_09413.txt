@@ -1,0 +1,1 @@
+the fix for remedy ticket has been migrated to model office and is ready for testing the nom volumes were doubled for contracts that in cycle and cycle

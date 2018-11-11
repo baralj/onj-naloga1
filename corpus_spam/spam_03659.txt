@@ -1,0 +1,1 @@
+v o w shape clean false false false false font definitions style definitions char new roman char new roman new roman page list definitions list list list

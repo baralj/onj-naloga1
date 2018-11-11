@@ -1,0 +1,1 @@
+testing process now includes the flow gas app all testing was completed successfully and we have confirmed with resolution center that exchange servers are up we experienced performance issues for two brief periods with exchange servers and this week although the resolution center has provided no detail we are following up with the messaging team

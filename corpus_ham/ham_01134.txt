@@ -1,0 +1,1 @@
+be advised the collateral threshold matrix should be in i have changed the credit worksheet to reflect this

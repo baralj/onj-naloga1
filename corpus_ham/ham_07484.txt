@@ -1,0 +1,1 @@
+need a global id number so that can create a stack manager

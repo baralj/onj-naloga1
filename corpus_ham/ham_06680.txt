@@ -1,0 +1,1 @@
+i am trying to create the for other areas beside e but an error msg for length is there a way to truncate these that we can trade them on
